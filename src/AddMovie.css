@@ -1,0 +1,15 @@
+.add{
+    width: 50%;
+}
+.form{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+        
+}
+.add >.form > input{
+    padding: 10px;
+    width: 40%;
+}
